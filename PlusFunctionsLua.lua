@@ -1,4 +1,4 @@
---Plus Functions Lua v1
+--Plus Functions Lua v1.1
 
 --sum()
 
@@ -58,12 +58,12 @@ end
 
 
 
---index()
+--len()
 
-function index(carac) 
+function len(carac) 
     local string_generic = carac
-    local len = #string_generic
-    print(len)
+    local len1 = #string_generic
+    print(len1)
 end
 
 
@@ -74,4 +74,20 @@ function cus_type(value)
     local type_cus = type(value)
     print("class: " .. "<" .. "'" .. type_cus .. "'" .. ">")
 end
- 
+
+--isnum()
+
+function isnum(n1)
+    local num = n1
+    local really_num = num == tonumber(num)
+    print("Value:" .. "'" .. num .. "'".. " Is number?", really_num)
+end
+
+--isstring()
+
+function isstring(text)
+    local string = text
+    local really_string = text == tostring(string)
+    print("Value:" .. "'" .. string .. "'" .. " Is string? ", really_string)
+end
+
