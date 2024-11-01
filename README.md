@@ -74,7 +74,7 @@ cus_type(4)
 
 --How To Use isnum()
 
-isnum() verifies the value, if it is a number, then "true" you be showed, if not then "false" you be showed
+isnum() verifies the value, if it is a number, then "true" will be showed, if not then "false" will be showed
 
 isnum("potato")
 
