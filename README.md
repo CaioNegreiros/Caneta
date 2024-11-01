@@ -80,7 +80,7 @@ isnum("potato")
 
 --How To Use isstring()
 
-isstring() do the same thin as isnum() but with strings
+isstring() do the same thing as isnum() but with strings
 
 isstring(4)
 
