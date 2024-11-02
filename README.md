@@ -88,4 +88,4 @@ isstring(4)
 
 table_sum() needs one input argument, table_sum() will sum everything thats is in the table
 
-table_sum()
+table_sum(table)
