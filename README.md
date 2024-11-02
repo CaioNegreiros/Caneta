@@ -68,7 +68,7 @@ len("potato")
 
 --How To Use cus_type()
 
-like len() its a python line function, shows the type similar how python does
+like len() its a python type like function, shows the type similar how python does
 
 cus_type(4)
 
