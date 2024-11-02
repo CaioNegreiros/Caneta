@@ -84,4 +84,10 @@ isstring() do the same thing as isnum() but with strings
 
 isstring(4)
 
+--How To Use double_table()
+
+key_table() needs two input arguments, these values you be placed in a table
+
+double_table(n1, n2)
+
 Thats it, hope this helps!!
