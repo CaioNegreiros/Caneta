@@ -91,3 +91,12 @@ function isstring(text)
     print("Value:" .. "'" .. string .. "'" .. " Is string? ", really_string)
 end
 
+--key_table()
+
+function table_sum(table)
+    local s = 0
+    for i = 1, #table do
+    s = s + i
+    end
+    print(s)
+end
