@@ -86,6 +86,6 @@ isstring(4)
 
 --How To Use table_sum()
 
-table_sum() needs one input argument, table_sum() will sum everything thats has in the table
+table_sum() needs one input argument, table_sum() will sum everything thats is in the table
 
 table_sum()
