@@ -84,10 +84,8 @@ isstring() do the same thing as isnum() but with strings
 
 isstring(4)
 
---How To Use double_table()
+--How To Use table_sum()
 
-key_table() needs two input arguments, these values you be placed in a table
+table_sum() needs one input argument, table_sum() will sum everything thats has in the table
 
-double_table(n1, n2)
-
-Thats it, hope this helps!!
+table_sum()
