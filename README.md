@@ -44,7 +44,7 @@ multiplicate(number1, number2)
 
 --How To Use divide()
 
-samething og multiplicate(), need two input arguments and return de division of the two numbers
+same thing of multiplicate(), need two input arguments and return de division of the two numbers
 
 divide(number1, number2)
 
