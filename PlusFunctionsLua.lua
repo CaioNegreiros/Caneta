@@ -100,3 +100,11 @@ function table_sum(table)
     end
     print(s)
 end
+
+-- emojis
+
+local emojis = {
+    {happy = "(^_^)", angry = "(►__◄)", shy = "(*>﹏<*)", glasses = "(⌐■_■)", table_flip = "(╯°□°）╯︵ ┻━┻",
+    cute = "ヾ(•ω•`)o", Le_Lenny_Face = "( ͡° ͜ʖ ͡°)"
+}
+}
