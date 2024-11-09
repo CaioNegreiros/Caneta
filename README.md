@@ -6,7 +6,7 @@ In that README file i will teach you how to use every function of that package/p
 
 --Installation
 
-when installed, copy or move de archive to your vs code project folder
+when installed, copy or move de archive(PlusFunctionsLua) to your vs code project folder
 
 --how to use
 
