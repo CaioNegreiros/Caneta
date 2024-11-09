@@ -101,10 +101,18 @@ function table_sum(table)
     print(s)
 end
 
+--1.0.1 features:
+
 -- emojis
 
 local emojis = {
-    {happy = "(^_^)", angry = "(►__◄)", shy = "(*>﹏<*)", glasses = "(⌐■_■)", table_flip = "(╯°□°）╯︵ ┻━┻",
+ happy = "(^_^)", angry = "(►__◄)", shy = "(*>﹏<*)", glasses = "(⌐■_■)", table_flip = "(╯°□°）╯︵ ┻━┻",
     cute = "ヾ(•ω•`)o", Le_Lenny_Face = "( ͡° ͜ʖ ͡°)"
 }
-}
+
+--expo()
+
+function expo(n1, n2)
+    local expo = n1 ^ n2
+    print(expo)
+end
