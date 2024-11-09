@@ -12,7 +12,7 @@ when installed, copy or move de archive to your vs code project folder
 
 when installed, in the archive of your choice, type:
 
-local plusfunctions = require("PlusFunctionsLua.lua")
+local plusfunctions = require("PlusFunctionsLua")
 
 this will add every function to your archive so you can use it properly
 
@@ -89,3 +89,37 @@ isstring(4)
 table_sum() needs one input argument, table_sum() will sum everything thats is in the table
 
 table_sum(table)
+
+New 1.0.1 feature: Emojis
+
+--How To Use Emojis
+
+happy:
+
+print(emojis.happy)
+
+angry:
+
+print(emojis.angry)
+
+shy:
+
+print(emojis.shy)
+
+glasses:
+
+print(emojis.glasses)
+
+table flip:
+
+print(emojis.table_flip)
+
+cute:
+
+print(emojis.cute)
+
+Le Lenny Face:
+
+print(emojis.Le_Lenny_Face)
+
+thats it, hope this helps!
