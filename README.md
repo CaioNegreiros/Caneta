@@ -90,7 +90,11 @@ table_sum() needs one input argument, table_sum() will sum everything thats is i
 
 table_sum(table)
 
-New 1.0.1 feature: Emojis
+New 1.0.1 features:
+
+Emojis
+
+expo()
 
 --How To Use Emojis
 
@@ -121,5 +125,11 @@ print(emojis.cute)
 Le Lenny Face:
 
 print(emojis.Le_Lenny_Face)
+
+--How To Use expo()
+
+expo() needs 2 input arguments, the first will be exponentiated by the last
+
+expo(n1, n2)
 
 thats it, hope this helps!
