@@ -116,3 +116,11 @@ function expo(n1, n2)
     local expo = n1 ^ n2
     print(expo)
 end
+
+--1.0.2 features
+
+--simple math
+
+local smath = {
+    pi = 3.14, phi = 1.618, 
+}
