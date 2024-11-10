@@ -133,3 +133,15 @@ expo() needs 2 input arguments, the first will be exponentiated by the last
 expo(n1, n2)
 
 thats it, hope this helps!
+
+--new features 1.0.2
+
+smath:
+
+pi:
+
+print(smath.pi)
+
+phi:
+
+print(smath.phi)
