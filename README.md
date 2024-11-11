@@ -145,3 +145,9 @@ print(smath.pi)
 phi:
 
 print(smath.phi)
+
+circle:
+
+area:
+
+print(area(6)) --the input argument needs to be the circle radius!
