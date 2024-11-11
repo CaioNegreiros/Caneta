@@ -124,3 +124,13 @@ end
 local smath = {
     pi = 3.14, phi = 1.618, 
 }
+
+--Circle
+
+--area()
+
+function area(radius)
+    local pi = 3.14
+    local calculus = pi * (radius * 2)
+    print(calculus)
+end
