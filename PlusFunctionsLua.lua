@@ -54,6 +54,7 @@ end
 
 function int_division(n1, n2)
     local int_division1 = n1 // n2
+    print(int_division1)
 end
 
 
@@ -122,8 +123,11 @@ end
 --simple math
 
 local smath = {
-    pi = 3.14, phi = 1.618, 
+    pi = 3.14, phi = 1.618
 }
+
+
+--Geometry
 
 --Circle
 
@@ -134,3 +138,29 @@ function area(radius)
     local calculus = pi * (radius * 2)
     print(calculus)
 end
+
+--Triangle
+
+--tarea()
+
+function tarea(base, height)
+    local calculus = (base * height) / 2
+    print(calculus)
+end
+
+--Retangle
+
+--rarea()
+
+function rarea(base, height)
+    local calculus = (base * height)
+    print(calculus)
+end
+
+--Square
+
+function sarea(base)
+    local calculus = (base * base)
+    print(calculus)
+end
+
