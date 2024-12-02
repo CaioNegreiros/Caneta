@@ -108,7 +108,7 @@ end
 
 local emojis = {
  happy = "(^_^)", angry = "(►__◄)", shy = "(*>﹏<*)", glasses = "(⌐■_■)", table_flip = "(╯°□°）╯︵ ┻━┻",
-    cute = "ヾ(•ω•`)o", Le_Lenny_Face = "( ͡° ͜ʖ ͡°)"
+    cute = "ヾ(•ω•`)o", Le_Lenny_Face = "( ͡° ͜ʖ ͡°)",
 }
 
 --expo()
@@ -164,3 +164,41 @@ function sarea(base)
     print(calculus)
 end
 
+--1.0.3 features
+
+--Prism
+
+--prism_area()
+
+function prism_area(base, side)
+    local calculus = (2 * base) + side
+    print(calculus)
+end
+
+--prism_vol()
+
+function prism_vol(base, height)
+    local calculus = base * height
+    print(calculus)
+end
+
+--Misc
+
+--connect()
+
+function connect(string1, string2)
+    local con = string1 .. " " .. string2
+    print(con)
+end
+
+
+--connect_number()
+
+function connect_number(number1, number2)
+    local really_number1 = tonumber(number1)
+    local really_number2 = tonumber(number2)
+    local con = print(really_number1 .. really_number2)
+    return con 
+end
+
+  
