@@ -1,4 +1,4 @@
---Plus Functions Lua v1.1
+--Caneta v1.0.0
 
 --sum()
 
