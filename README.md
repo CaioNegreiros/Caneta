@@ -3,7 +3,7 @@
 CANETA.
 
 
-![Alt text](https://github.com/CaioNegreiros/Plus-Functions-Lua/blob/main/Caneta_logo.png) --Caneta logo
+![Alt text](https://github.com/CaioNegreiros/Plus-Functions-Lua/blob/main/Caneta_logo.png) 
 
 This project Adds a little quantity of functions for lua, notice that this project is a test, nothing especial, just for me test my lua skills.
 
