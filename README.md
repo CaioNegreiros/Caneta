@@ -1,9 +1,9 @@
-![Alt text](https://badgen.net/badge/Lua/ReadMe/blue?icon=github))
+![Alt text](https://badgen.net/badge/Lua/ReadMe/blue?icon=github)
 
 CANETA.
 
 
-![Alt text](https://github.com/CaioNegreiros/Plus-Functions-Lua/blob/main/Caneta_logo.png)) --Caneta logo
+![Alt text](https://github.com/CaioNegreiros/Plus-Functions-Lua/blob/main/Caneta_logo.png) --Caneta logo
 
 This project Adds a little quantity of functions for lua, notice that this project is a test, nothing especial, just for me test my lua skills.
 
