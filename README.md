@@ -1,4 +1,7 @@
-![Alt text](https://github.com/CaioNegreiros/Plus-Functions-Lua/blob/main/Caneta_logo.png)) --Plus Functions Lua logo
+CANETA.
+
+
+![Alt text](https://github.com/CaioNegreiros/Plus-Functions-Lua/blob/main/Caneta_logo.png)) --Caneta logo
 
 This project Adds a little quantity of functions for lua, notice that this project is a test, nothing especial, just for me test my lua skills.
 
@@ -6,13 +9,13 @@ In that README file i will teach you how to use every function of that package/p
 
 --Installation
 
-when installed, copy or move the archive (PlusFunctionsLua) to your vs code project folder
+when installed, copy or move the archive (Caneta) to your vs code project folder
 
 --how to use
 
 when installed, in the archive of your choice, type:
 
-local plusfunctions = require("PlusFunctionsLua")
+local plusfunctions = require("Caneta")
 
 this will add every function to your archive so you can use it properly
 
