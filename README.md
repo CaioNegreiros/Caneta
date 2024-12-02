@@ -1,3 +1,4 @@
+\[my badge\](https://badgen.net/badge/Caneta/ReadMe/blue?icon=github)
 
 CANETA.
 
