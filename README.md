@@ -1,4 +1,4 @@
-![Alt text](https://badgen.net/badge/Lua/ReadMe/blue?icon=github)
+![Alt text](https://badgen.net/badge/Caneta/ReadMe/blue?icon=github)
 
 CANETA.
 
