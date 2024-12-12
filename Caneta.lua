@@ -201,4 +201,44 @@ function connect_number(number1, number2)
     return con 
 end
 
-  
+
+--variable deposit
+
+
+::deposit_gate::
+
+    deposit = {}
+
+--add_to_deposit()
+
+function add_to_deposit(var, position)
+    deposit[position] = var
+end
+
+
+--var_show()
+
+var_show = coroutine.create(function()
+    function show()
+    print("Quantity of variables:" .. #deposit)
+    end
+    return show()
+end)
+
+--time_sleep()
+
+function time_sleep(n)
+    if n > 0 then
+        os.execute("ping -n " .. tonumber(n+1) .. " localhost > NUL")
+    end
+end
+
+function counter(number1, number2)
+    local time = 0
+    while time ~= number1 do
+    time_sleep(number2)
+    time = time + 1
+    print(time)
+    end
+end
+
