@@ -233,6 +233,8 @@ function time_sleep(n)
     end
 end
 
+--counter()
+
 function counter(number1, number2)
     local time = 0
     while time ~= number1 do
@@ -242,3 +244,32 @@ function counter(number1, number2)
     end
 end
 
+--celsius, farenheit and kelvin
+
+--celsius_to_farenheit()
+
+function celsius_to_farenheit(celsius)
+    local to_farenheit = celsius * 1.8
+    print(to_farenheit)
+end
+
+--farenheit_to_celsius()
+
+function farenheit_to_celsius(farenheit)
+    local to_celsius = farenheit / 1.8
+    print(to_celsius)
+end
+
+--celsius_to_kelvin()
+
+function celsius_to_kelvin(celsius)
+    local to_kelvin = celsius + 273.15
+    print(to_kelvin)
+end
+
+--kelvin_to_celsius()
+
+function kelvin_to_celsius(kelvin)
+    local to_celsius = kelvin - 273.15
+    print(to_celsius)
+end
