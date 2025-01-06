@@ -1,5 +1,5 @@
 
-![Alt text](https://badgen.net/badge/Caneta/ReadMe/cyan?icon=github) ![Alt text](https://badgen.net/badge/Lua/Package/blue?icon=visualstudio) ![Alt text](https://badgen.net/badge/Written_In_Version:/5.1.5/purple?icon=windows) ![Alt text](https://badgen.net/badge/Package_Version:/1.0.3/pink?icon=terminal) ![Alt text](https://badgen.net/badge/License/MIT/cyan?icon=mit)
+![Alt text](https://badgen.net/badge/Caneta/ReadMe/cyan?icon=github) ![Alt text](https://badgen.net/badge/Lua/Package/blue?icon=visualstudio) ![Alt text](https://badgen.net/badge/Written_In_Version:/5.1.5/purple?icon=windows) ![Alt text](https://badgen.net/badge/Package_Version:/1.0.4/pink?icon=terminal) ![Alt text](https://badgen.net/badge/License/MIT/cyan?icon=mit)
 
 if you just want the source code to modify it go here: https://pastebin.com/65NRT5Ji
 
