@@ -273,3 +273,21 @@ function kelvin_to_celsius(kelvin)
     local to_celsius = kelvin - 273.15
     print(to_celsius)
 end
+
+--1.0.4 features
+
+--mass()
+
+function mass(volume, density)
+    local calculus = volume * density
+    print(calculus)
+end
+
+--equation()
+
+function equation(number1, number2, number3)
+    local calculus = number1 + number2 + number3
+    print("x " .. "= " .. calculus)
+end
+
+
